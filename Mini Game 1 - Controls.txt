@@ -1,0 +1,6 @@
+W - Move Forward
+S - Move Backward
+D - Move Right
+A - Move Left
+Space - Jump 
+Left Mouse Click - Attack (3 clicks combo attack)
